@@ -21,7 +21,7 @@
 
     <Major Condition=" '$(Major)' == '' ">1</Major>
     <Minor Condition=" '$(Minor)' == '' ">5</Minor>
-    <Patch Condition=" '$(Patch)' == '' ">0</Patch>
+    <Patch Condition=" '$(Patch)' == '' ">1000</Patch>
 
     <AssemblyVersion>$(Major).$(Minor).0.0</AssemblyVersion>
     <AssemblyFileVersion>$(Major).$(Minor).$(Patch).$(BuildNumber)</AssemblyFileVersion>

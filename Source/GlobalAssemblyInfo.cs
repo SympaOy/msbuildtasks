@@ -10,11 +10,11 @@
 
 [assembly: System.Reflection.AssemblyProduct("MSBuild.Community.Tasks")]
 [assembly: System.Reflection.AssemblyCompany("https://github.com/loresoft/msbuildtasks/")]
-[assembly: System.Reflection.AssemblyCopyright("Copyright © 2016 MSBuild Community Tasks Project")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright © 2017 MSBuild Community Tasks Project")]
 [assembly: System.Reflection.AssemblyConfiguration("Release")]
 [assembly: System.Reflection.AssemblyVersion("1.5.0.0")]
-[assembly: System.Reflection.AssemblyFileVersion("1.5.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersion("1.5.0.0")]
+[assembly: System.Reflection.AssemblyFileVersion("1.5.1000.0")]
+[assembly: System.Reflection.AssemblyInformationalVersion("1.5.1000.0")]
 [assembly: System.Runtime.InteropServices.ComVisible(false)]
 [assembly: System.CLSCompliant(false)]
 
@@ -26,15 +26,15 @@ internal sealed partial class ThisAssembly {
     
     internal const string AssemblyCompany = "https://github.com/loresoft/msbuildtasks/";
     
-    internal const string AssemblyCopyright = "Copyright © 2016 MSBuild Community Tasks Project";
+    internal const string AssemblyCopyright = "Copyright © 2017 MSBuild Community Tasks Project";
     
     internal const string AssemblyConfiguration = "Release";
     
     internal const string AssemblyVersion = "1.5.0.0";
     
-    internal const string AssemblyFileVersion = "1.5.0.0";
+    internal const string AssemblyFileVersion = "1.5.1000.0";
     
-    internal const string AssemblyInformationalVersion = "1.5.0.0";
+    internal const string AssemblyInformationalVersion = "1.5.1000.0";
     
     private ThisAssembly() {
     }
